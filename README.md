@@ -10,5 +10,5 @@
 * Позволяет в реальном времене составлять и наглядно проверять регулярные выражения
 
 ## Онлайн-книжки
-* [A Byte of Python] (https://python.swaroopch.com/)
+* [A Byte of Python](https://python.swaroopch.com/)
 * Понравилась подача книжки - минимализм.
